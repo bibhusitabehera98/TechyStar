@@ -1,8 +1,14 @@
-# React + Vite
+# TechyStar
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+TechyStar is an educational website designed to help users improve their skills in various technical domains. Built with modern web development tools and practices, TechyStar offers a seamless learning experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- **Responsive Design**: Fully optimized for desktop, tablet, and mobile devices.
+- **Educational Content**: Covers a variety of topics, making it easier for users to enhance their technical knowledge.
+- **Modern Tech Stack**: Built using React and Vite for a fast and efficient user experience.
+
+## Tech Stack
+- **Frontend**: React
+- **Build Tool**: Vite
+- **Styling**: CSS Modules 
